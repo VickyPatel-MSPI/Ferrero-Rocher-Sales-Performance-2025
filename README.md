@@ -140,3 +140,11 @@ Feel free to fork, extend or use it as inspiration for your own retail / FMCG an
 Questions / suggestions → open an issue.
 
 ---
+
+**Contributions**
+
+Explore the Power BI dashboard for interactive visualizations: [Ferrero Rocher Sales Performance](https://github.com/VickyPatel-MSPI/Ferrero-Rocher-Sales-Performance-2025/tree/main/Power%20BI)
+
+Explore the Excel word file for query and data analysis: [Ferrero Rocher Sales](https://github.com/VickyPatel-MSPI/Ferrero-Rocher-Sales-Performance-2025/tree/main/Data)
+
+---
