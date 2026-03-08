@@ -1,4 +1,7 @@
 # Ferrero Rocher Sales Analysis – 2025
+[![Power BI](https://img.shields.io/badge/Power%20BI-FF2E00?style=flat&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 End-to-end retail sales analytics project using Excel and Power BI  
 
